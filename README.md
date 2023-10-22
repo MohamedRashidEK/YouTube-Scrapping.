@@ -16,16 +16,16 @@ This repository contains data from web scraping using the YouTube API. The proje
 
 ## Data Overview
 
-The dataset provides insights into the videos of five key data analytics YouTubers. It includes details like video titles, publication dates, views, likes, and comments. The data spans videos from January 2021 to August 2023.
+The dataset provides insights into the videos of six Personal Develoupment content creating YouTubers. It includes details like channel title, views counts, total likes, and Total subscriber counts.
 
 ## Analysis
 
 The analysis explores several aspects of the video data, including:
 
-- Trends in video popularity over time
-- Correlations between views, likes, and comments
-- Each creator's most popular videos based on various metrics
-- Video publishing frequency for each creator
+- Trends in video popularity.
+- Correlations between views, likes, and subscribers.
+- Each creator's efficiency and popularity.
+- Video publishing quality of each creators.
 
 ## Visualization
 
