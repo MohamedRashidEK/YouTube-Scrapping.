@@ -21,6 +21,7 @@ Welcome to my Python capstone project, where I explore YouTube data through web 
 7. **Data Visualization**: Following data preparation, I created three bar charts using `sns.barplot`, with channel names on the x-axis and subscriber count, view count, and video count on the y-axis. These visualizations help in making sense of the data.
 
    ![Screenshot 2023-10-22 203522](https://github.com/RashidEriyakalam/YouTube-Scrapping./assets/142217254/d75e079d-c8b9-4f92-8122-348b2b0b960c)
+   ![Screenshot 2023-10-22 203852](https://github.com/RashidEriyakalam/YouTube-Scrapping./assets/142217254/1e66c8f3-7aec-4ff7-ad01-c82eaa856eec)
 
 ## Conclusion
 
