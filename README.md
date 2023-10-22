@@ -1,7 +1,5 @@
 # YouTube-Scrapping.
  I harnessed the YouTube Data API to evaluate Shyan Wahedi's performance alongside other content creators. By extracting data on subscribers, video counts, and views, I used pandas and seaborn to create insightful visualizations, revealing trends and distinctions among the YouTubers, aiding in strategic analysis and decision-making.
-# YouTube Data Analysis - Capstone Project
-
 ## Project Overview
 
 Welcome to my Python capstone project, where I explore YouTube data through web scraping. This project stems from my fascination with extracting valuable insights from YouTube, and it revolves around assessing the success of my favorite personal development content creator, Shyan Wahedi, in comparison to other competitors in the field.
