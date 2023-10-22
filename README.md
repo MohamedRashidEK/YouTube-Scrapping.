@@ -29,7 +29,7 @@ The analysis explores several aspects of the video data, including:
 
 ## Visualization
 
-The results of the analysis are visualized using Tableau. The visualizations offer graphical representations of the findings, making it simpler to grasp trends and patterns in the data.
+The results of the analysis are visualized using Python. The visualizations offer graphical representations of the findings, making it simpler to grasp trends and patterns in the data.
 
 ### Visualizations:
 
@@ -41,8 +41,7 @@ The results of the analysis are visualized using Tableau. The visualizations off
 
 The analysis and visualization were performed using the following tools:
 
-- Python: Data cleaning and initial exploration
-- Tableau: Creating interactive visualizations
+- Python: Data cleaning and initial exploration and Creating visualizations.
 
 ## How to Use
 
